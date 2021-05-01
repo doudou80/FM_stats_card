@@ -71,7 +71,7 @@ body {
     height: 100%;
     filter: sepia(80%);
 }
-@media (max-width: 375px) {
+@media (max-width: 500px) {
     .container {
         flex-direction: column-reverse;
     }
